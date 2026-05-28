@@ -72,7 +72,7 @@ My goal is to become an Data Scientiste, AI Engineer and contribute to innovativ
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-```html
+
 <h2>🚀 Featured Projects</h2>
 
 <table>
