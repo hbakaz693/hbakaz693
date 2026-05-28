@@ -72,6 +72,74 @@ My goal is to become an Data Scientiste, AI Engineer and contribute to innovativ
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
+```html
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="100%">
+
+<h3>🧠 Deepfake Detection AI</h3>
+
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop" width="100%" />
+
+<p>
+AI-powered system for detecting fake and real face images using Deep Learning and Computer Vision techniques.
+</p>
+
+<p>
+<strong>Tech:</strong> TensorFlow, OpenCV, Python, Flask
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+<h3>📱 Snapgram Mobile App</h3>
+
+<img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop" width="100%" />
+
+<p>
+Instagram-inspired mobile application with authentication, stories, posts and real-time interactions.
+</p>
+
+<p>
+<strong>Tech:</strong> React Native, Spring Boot, SQL Server
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="100%">
+
+<h3>📊 AI Analytics Platform</h3>
+
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" />
+
+<p>
+Modern analytics platform combining AI, RAG systems and Power BI dashboards for intelligent business insights.
+</p>
+
+<p>
+<strong>Tech:</strong> Power BI, LangChain, FastAPI, PostgreSQL
+</p>
+
+</td>
+</tr>
+</table>
+
+
 
 
 
