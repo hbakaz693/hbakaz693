@@ -5,12 +5,13 @@
 </h3>
 
 <p align="center">
-  Passionate about AI, Machine Learning, Computer Vision, RAG, Power BI and Full-Stack Development.
+  Passionate about AI, Machine Learning, Computer Vision, RAG, Power BI and Full-Stack Development...
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;RAG+%26+Power+BI+Learner;Full-Stack+Developer" alt="Typing SVG" />
 </p>
+
 
 <h2>👨‍💻 About Me</h2>
 
@@ -19,18 +20,28 @@ I am a Master's student in Data Science & Artificial Intelligence passionate abo
 </p>
 
 <p>
-I enjoy working on AI, Computer Vision, Machine Learning, RAG systems, Data Analytics, and Full-Stack Development.
+I enjoy working on AI, Computer Vision, Machine Learning, RAG systems, Data Analytics, and Full-Stack Development...
 </p>
 
 <p>
-Currently, I am developing projects using TensorFlow, React Native, Spring Boot, Power BI, and modern AI technologies.
+Currently, I am developing projects using TensorFlow, React Native, Spring Boot, Power BI,OpenCV and modern AI technologies.
 </p>
 
 <p>
 My goal is to become an Data Scientiste, AI Engineer and contribute to innovative real-world projects in Artificial Intelligence and Data Science.
 </p>
 
-<h2>🎯 Current Focus</h2> <ul> <li>Building AI & Machine Learning projects</li> <li>Learning RAG (Retrieval-Augmented Generation)</li> <li>Developing Full-Stack applications with React Native & Spring Boot</li> <li>Improving skills in Computer Vision and Deep Learning</li> <li>Creating Data Analytics dashboards using Power BI</li> <li>Working on real-world AI portfolio projects</li> <li>Learning Agile workflow tools like Jira & Notion</li> </ul>
+
+<h2>🎯 Current Focus</h2>
+<ul> 
+  <li>Building AI & Machine Learning projects</li>
+  <li>Learning RAG (Retrieval-Augmented Generation)</li>
+  <li>Developing Full-Stack applications with React Native & Spring Boot</li> 
+  <li>Improving skills in Computer Vision and Deep Learning</li>
+  <li>Creating Data Analytics dashboards using Power BI</li> 
+  <li>Working on real-world AI portfolio projects</li> 
+  <li>Learning Agile workflow tools like Jira & Notion</li> 
+</ul>
 
 
 <h2>🛠 Tech Stack</h2>
@@ -92,7 +103,7 @@ AI model for detecting fake and real face images using Deep Learning.
 <strong>Tech:</strong> TensorFlow, OpenCV
 </p>
 
-<a href="https://github.com/yourusername/deepfake-detection">
+<a href="https://github.com/hbakaz693/fake-image-detection">
 🔗 Repository
 </a>
 
@@ -112,7 +123,7 @@ Instagram-inspired mobile application with stories and authentication.
 <strong>Tech:</strong> React Native, Spring Boot
 </p>
 
-<a href="https://github.com/yourusername/snapgram-app">
+<a href="https://github.com/hbakaz693/snapgram-app">
 🔗 Repository
 </a>
 
@@ -157,7 +168,7 @@ Real-time object detection system using YOLOv8 and Computer Vision.
 <strong>Tech:</strong> YOLOv8, Python
 </p>
 
-<a href="https://github.com/yourusername/yolov8-project">
+<a href="https://github.com/hbakaz693/Real-Time-Video-Object-Detection-with-YOLOv8">
 🔗 Repository
 </a>
 
@@ -195,21 +206,21 @@ Real-time object detection system using YOLOv8 and Computer Vision.
 <h2>🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/hicham-bakaz-155652396/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+  <a href="https://www.kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 
-  <a href="https://YOUR_PORTFOLIO.com">
+  <!-- <a href="https://YOUR_PORTFOLIO.com">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+  </a> -->
 
-  <a href="mailto:hbakaz693@gmail.com">
+<!-- <a href="mailto:hbakaz693@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 
