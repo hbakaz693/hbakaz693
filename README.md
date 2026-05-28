@@ -122,7 +122,7 @@ Instagram-inspired mobile application with stories and authentication.
 
 <tr>
 
-<td width="50%" valign="top">
+<!-- <td width="50%" valign="top">
 
 <h3>📊 AI Analytics Platform</h3>
 
@@ -141,6 +141,7 @@ AI + RAG + Power BI platform for intelligent analytics dashboards.
 </a>
 
 </td>
+-->
 
 <td width="50%" valign="top">
 
