@@ -11,3 +11,70 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Computer+Vision+Developer;RAG+%26+Power+BI+Learner;Full-Stack+Developer" alt="Typing SVG" />
 </p>
+
+```html
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I am a Master's student in Data Science & Artificial Intelligence passionate about building intelligent systems and modern applications.
+</p>
+
+<p>
+I enjoy working on AI, Computer Vision, Machine Learning, RAG systems, Data Analytics, and Full-Stack Development.
+</p>
+
+<p>
+Currently, I am developing projects using TensorFlow, React Native, Spring Boot, Power BI, and modern AI technologies.
+</p>
+
+<p>
+My goal is to become an Data Scientiste, AI Engineer and contribute to innovative real-world projects in Artificial Intelligence and Data Science.
+</p>
+
+<h2>🎯 Current Focus</h2> <ul> <li>Building AI & Machine Learning projects</li> <li>Learning RAG (Retrieval-Augmented Generation)</li> <li>Developing Full-Stack applications with React Native & Spring Boot</li> <li>Improving skills in Computer Vision and Deep Learning</li> <li>Creating Data Analytics dashboards using Power BI</li> <li>Working on real-world AI portfolio projects</li> <li>Learning Agile workflow tools like Jira & Notion</li> </ul>
+
+
+```html
+<h2>🛠 Tech Stack</h2>
+
+<h3>💻 Languages</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c" />
+</p>
+
+<h3>🎨 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,flask,fastapi" />
+</p>
+
+<h3>🧠 AI / Machine Learning</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+<h3>🗄️ Database</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+<h3>🛠 Tools & Platforms</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,vscode,figma" />
+</p>
+
+<h3>📊 Data Analytics / BI</h3>
+<p>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+```
+
+
+
+
