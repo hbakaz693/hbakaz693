@@ -77,69 +77,90 @@ My goal is to become an Data Scientiste, AI Engineer and contribute to innovativ
 
 <table>
 <tr>
-<td width="100%">
+
+<td width="50%" valign="top">
 
 <h3>🧠 Deepfake Detection AI</h3>
 
-<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1200&auto=format&fit=crop" width="100%" />
+<img src="https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=600&auto=format&fit=crop" width="100%" />
 
 <p>
-AI-powered system for detecting fake and real face images using Deep Learning and Computer Vision techniques.
+AI model for detecting fake and real face images using Deep Learning.
 </p>
 
 <p>
-<strong>Tech:</strong> TensorFlow, OpenCV, Python, Flask
+<strong>Tech:</strong> TensorFlow, OpenCV
 </p>
+
+<a href="https://github.com/yourusername/deepfake-detection">
+🔗 Repository
+</a>
 
 </td>
-</tr>
-</table>
 
-<br>
-
-<table>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 <h3>📱 Snapgram Mobile App</h3>
 
-<img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1200&auto=format&fit=crop" width="100%" />
+<img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=600&auto=format&fit=crop" width="100%" />
 
 <p>
-Instagram-inspired mobile application with authentication, stories, posts and real-time interactions.
+Instagram-inspired mobile application with stories and authentication.
 </p>
 
 <p>
-<strong>Tech:</strong> React Native, Spring Boot, SQL Server
+<strong>Tech:</strong> React Native, Spring Boot
 </p>
+
+<a href="https://github.com/yourusername/snapgram-app">
+🔗 Repository
+</a>
 
 </td>
+
 </tr>
-</table>
 
-<br>
-
-<table>
 <tr>
-<td width="100%">
+
+<td width="50%" valign="top">
 
 <h3>📊 AI Analytics Platform</h3>
 
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="100%" />
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=600&auto=format&fit=crop" width="100%" />
 
 <p>
-Modern analytics platform combining AI, RAG systems and Power BI dashboards for intelligent business insights.
+AI + RAG + Power BI platform for intelligent analytics dashboards.
 </p>
 
 <p>
-<strong>Tech:</strong> Power BI, LangChain, FastAPI, PostgreSQL
+<strong>Tech:</strong> Power BI, LangChain
 </p>
+
+<a href="https://github.com/yourusername/ai-analytics-platform">
+🔗 Repository
+</a>
 
 </td>
+
+<td width="50%" valign="top">
+
+<h3>🎯 YOLOv8 Object Detection</h3>
+
+<img src="https://images.unsplash.com/photo-1526379095098-d400fd0bf935?q=80&w=600&auto=format&fit=crop" width="100%" />
+
+<p>
+Real-time object detection system using YOLOv8 and Computer Vision.
+</p>
+
+<p>
+<strong>Tech:</strong> YOLOv8, Python
+</p>
+
+<a href="https://github.com/yourusername/yolov8-project">
+🔗 Repository
+</a>
+
+</td>
+
 </tr>
 </table>
-
-
-
-
-
