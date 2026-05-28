@@ -213,3 +213,20 @@ Real-time object detection system using YOLOv8 and Computer Vision.
 </p>
 
 
+
+<h2>⚡ Fun Fact / Quote</h2>
+
+<p align="center">
+  <i>
+    "Turning ideas into intelligent solutions with AI and code 🚀"
+  </i>
+</p>
+
+<p align="center">
+  <i>
+    "Always learning, always building."
+  </i>
+</p>
+
+
+
