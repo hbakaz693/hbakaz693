@@ -166,34 +166,50 @@ Real-time object detection system using YOLOv8 and Computer Vision.
 </tr>
 </table>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📚 Learning Journey</h2>
+
+<ul>
+  <li>🤖 Learning Artificial Intelligence & Machine Learning</li>
+  <li>🧠 Exploring Deep Learning & Computer Vision</li>
+  <li>📊 Improving Data Analytics & Power BI skills</li>
+  <li>🔍 Studying RAG Systems & LLM Applications</li>
+  <li>📱 Building Full-Stack & Mobile Applications</li>
+  <li>⚙️ Learning Software Engineering & Agile Workflow</li>
+  <li>☁️ Exploring Cloud Computing & Deployment</li>
+</ul>
+
+
+<h2>🚀 Goals / Future Vision</h2>
+
+<ul>
+  <li>🎯 Become a professional AI & Full-Stack Engineer</li>
+  <li>🧠 Build impactful AI solutions for real-world problems</li>
+  <li>📊 Develop intelligent analytics platforms using AI & Power BI</li>
+  <li>🌍 Contribute to innovative open-source and tech projects</li>
+  <li>☁️ Master Cloud, MLOps and scalable AI systems</li>
+  <li>💡 Create modern applications combining AI, RAG and Data Science</li>
+  <li>📈 Continuously improve technical and problem-solving skills</li>
+</ul>
+
+
+<h2>🌐 Connect With Me</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" 
-/>
+  <a href="https://www.kaggle.com/YOUR_KAGGLE">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  </a>
 
-<img 
-height="180em" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" 
-/>
+  <a href="https://YOUR_PORTFOLIO.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 
+  <a href="mailto:hbakaz693@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<p align="center">
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" 
-/>
-
-</p>
-
-<p align="center">
-
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" 
-width="95%"/>
-
-</p>
